@@ -1,2 +1,9 @@
-# python-libraries
-A brief introduction to the python libraries such as NumPy, pandas, matplotlib, etc
+<h1 align = center>Intorduction to various Python Libraries</h1>
+
+## Requirements:
+- numpy
+- matplotlib
+- sympy
+- seaborn
+- pandas
+- bokeh
